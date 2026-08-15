@@ -58,7 +58,7 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
 
 # Clone the frontend repository
-git clone https://github.com/Zchigozie/frontend-mediahub.git /home/ubuntu/frontend-mediahub
+git pull https://github.com/Zchigozie/frontend-mediahub.git /home/ubuntu/frontend-mediahub
 
 # Move into project directory
 cd /home/ubuntu/frontend-mediahub/mediahub

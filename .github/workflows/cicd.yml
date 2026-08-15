@@ -1,6 +1,6 @@
 
 name: Terraform CI CD Pipeline for Deploying AWS Resources
-run-name: frontend deployment1
+run-name: frontend deployment
 
 on:
   push:
